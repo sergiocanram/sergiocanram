@@ -1,5 +1,5 @@
  ## Hello there! 😄 I'm Sergio
- #### Mathematics and Web Developer 
+ #### Mathematician and Web Developer 
  
  ### I'm here to contribute to your project!
 
