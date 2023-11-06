@@ -3,7 +3,7 @@
  #### Mathematician and Web Developer 
 ![calvin-and-hobbes]( | width=100)
 
-<img src="[https://camo.githubusercontent.com/...](https://github.com/sergiocanram/sergiocanram/assets/43572682/6c351997-7c5d-48db-b547-f2e38bea7975)" ](https://github.com/sergiocanram/sergiocanram/assets/43572682/6c351997-7c5d-48db-b547-f2e38bea7975)" width="200" height="400" />
+<img src="[[https://camo.githubusercontent.com/...]()" ](https://github.com/sergiocanram/sergiocanram/assets/43572682/6c351997-7c5d-48db-b547-f2e38bea7975)](https://github.com/sergiocanram/sergiocanram/assets/43572682/6c351997-7c5d-48db-b547-f2e38bea7975)" width="200" height="400" />
 
 ---
   
