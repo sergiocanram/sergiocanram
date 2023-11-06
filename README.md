@@ -7,7 +7,7 @@
   
  ### I'm here to contribute to your project!
 
-> 🌱 I’m currently learning React and NextJS 
+> 🌱 I’m currently improving my React and NextJS skills.
 > 
 >> 👯 Available to collaborate on any web dev project 
 > 
