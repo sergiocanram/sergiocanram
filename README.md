@@ -27,8 +27,8 @@
  ### I'm here to contribute to your project!
 
 
-> 🐦 Follow me on [Twitter or X or wahtever](https://twitter.com/SergioCanRam)
+> 🐦 Follow me on [Twitter or X or whatever](https://twitter.com/SergioCanRam)
 > 
-> 📫 To email me, click here <sergiocanram@gmail.com> 
+> 📫 To email me, click the following email <sergiocanram@gmail.com> 
 
 
