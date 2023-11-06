@@ -3,11 +3,11 @@
  #### Mathematician and Web Developer 
 
  ### SKILLS
-|                    Language | Skill Level |
-| ----                         | :----         |
-| HTML                             | ⭐⭐⭐⭐⭐|
-| CSS      | ⭐⭐⭐⭐⭐⭐|
-| JS       | ⭐⭐⭐⭐ |
+| Language | Skill Level     |
+| ----     | :----           |
+| HTML     | ⭐⭐⭐⭐⭐    |
+| CSS      | ⭐⭐⭐⭐⭐⭐ |
+| JS       | ⭐⭐⭐⭐      |
 
 
 
