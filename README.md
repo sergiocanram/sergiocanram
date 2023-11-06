@@ -9,6 +9,11 @@
 | CSS      | ⭐⭐⭐⭐⭐⭐|
 | JS       | ⭐⭐⭐⭐ |
 
+- [x] Great worker and team player
+- [x] Always a helping hand
+- [x] Detail-oriented and highly organized
+- [x] Proactive problem solver and critical thinker
+
 
 ![calvin-and-hobbes](https://github.com/sergiocanram/sergiocanram/assets/43572682/6c351997-7c5d-48db-b547-f2e38bea7975)
 
