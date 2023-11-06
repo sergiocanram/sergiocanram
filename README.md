@@ -3,15 +3,13 @@
  #### Mathematician and Web Developer 
 
  ### SKILLS
-| Language | Skill Level |
-| ----     | :----         |
-| HTML     | ⭐⭐⭐⭐⭐|
+|                    Language | Skill Level |
+| ----                         | :----         |
+| HTML                             | ⭐⭐⭐⭐⭐|
 | CSS      | ⭐⭐⭐⭐⭐⭐|
 | JS       | ⭐⭐⭐⭐ |
 
-| Columna 1 | Columna 2 |      | Columna 4 | Columna 5 |
-|-----------|-----------|------|-----------|-----------|
-| Contenido | Contenido |      | Contenido | Contenido |
+
 
 
 - [x] Great worker and team player
