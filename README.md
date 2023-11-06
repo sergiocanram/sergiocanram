@@ -9,7 +9,7 @@
 
 > 🌱 I’m currently learning React and NextJS 
 > 
->> 👯 I’m looking to collaborate on any web dev project 
+>> 👯 Available to collaborate on any web dev project 
 > 
 >>> 📫 How to reach me: sergiocanram@gmail.com 
 > 
