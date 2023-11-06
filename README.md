@@ -26,9 +26,8 @@
   
  ### I'm here to contribute to your project!
 
-> 🌱 I’m currently improving my React and NextJS skills.
-> 
-> [Follow me on X!](https://twitter.com/SergioCanRam)
+
+> 🐦 Follow me on [Twitter or X or wahtever](https://twitter.com/SergioCanRam)
 > 
 > 📫 To email me, click here <sergiocanram@gmail.com> 
 
