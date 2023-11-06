@@ -1,4 +1,4 @@
- ## Hello there! 😄 I'm Sergio<sup>2</sup>
+ ## Hello there! 😄 I'm Sergio<sup>2</sup> ![Me, Myself and I](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQG6WT8YC0cLtMXTMlgbHZmLelLt3oh4QR5A&usqp=CAU)
  #### Mathematician and Web Developer 
  
  ### I'm here to contribute to your project!
