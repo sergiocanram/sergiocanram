@@ -28,9 +28,9 @@
 
 > 🌱 I’m currently improving my React and NextJS skills.
 > 
->> 👯 Available to collaborate on any web dev project 
+>> [Follow me on X!](https://twitter.com/SergioCanRam)
 > 
->>> 📫 If you feel the urge to contact me, you can reach me here: sergiocanram@gmail.com 
+>>> 📫 To email me, click here <sergiocanram@gmail.com> 
 > 
 >>>> ⚡ Fun fact: I love books 
 
