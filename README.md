@@ -28,9 +28,8 @@
 
 > 🌱 I’m currently improving my React and NextJS skills.
 > 
->> [Follow me on X!](https://twitter.com/SergioCanRam)
+> [Follow me on X!](https://twitter.com/SergioCanRam)
 > 
->>> 📫 To email me, click here <sergiocanram@gmail.com> 
-> 
->>>> ⚡ Fun fact: I love books 
+> 📫 To email me, click here <sergiocanram@gmail.com> 
+
 
