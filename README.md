@@ -1,4 +1,8 @@
- ### Hi there 👋 I'm Sergio, and I am a Mathematics and Web Development Enthusiast. I'm here to contribute to your project!
+ ## Hello there! 👋 I'm Sergio
+ 
+ #### Mathematics and Web Developer 
+ 
+ ### I'm here to contribute to your project!
 
 
 
