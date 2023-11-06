@@ -4,6 +4,7 @@
 
  ### SKILLS
 | Language | Skill Level |
+| ---      | ---         |
 | HTML     | ⭐⭐⭐⭐⭐|
 | CSS      | ⭐⭐⭐⭐⭐⭐|
 | JS       | ⭐⭐⭐⭐ |
