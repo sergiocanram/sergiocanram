@@ -11,7 +11,7 @@
 > 
 >> 👯 Available to collaborate on any web dev project 
 > 
->>> 📫 How to reach me: sergiocanram@gmail.com 
+>>> 📫 If you feel the urge to contact me, you can reach me here: sergiocanram@gmail.com 
 > 
 >>>> ⚡ Fun fact: I love books 
 
