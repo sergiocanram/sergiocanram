@@ -1,7 +1,9 @@
  ## Hello there! 😄 I'm Sergio<sup>2</sup>
 
  #### Mathematician and Web Developer 
-![calvin-and-hobbes](https://github.com/sergiocanram/sergiocanram/assets/43572682/6c351997-7c5d-48db-b547-f2e38bea7975 | width=100)
+![calvin-and-hobbes]( | width=100)
+
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/sergiocanram/sergiocanram/assets/43572682/6c351997-7c5d-48db-b547-f2e38bea7975)" width="200" height="400" />
 
 ---
   
