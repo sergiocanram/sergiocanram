@@ -9,6 +9,11 @@
 | CSS      | ⭐⭐⭐⭐⭐⭐|
 | JS       | ⭐⭐⭐⭐ |
 
+| Columna 1 | Columna 2 |      | Columna 4 | Columna 5 |
+|-----------|-----------|------|-----------|-----------|
+| Contenido | Contenido |      | Contenido | Contenido |
+
+
 - [x] Great worker and team player
 - [x] Always a helping hand
 - [x] Detail-oriented and highly organized
