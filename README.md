@@ -29,6 +29,6 @@
 
 > 🐦 Follow me on [Twitter or X or whatever](https://twitter.com/SergioCanRam)
 > 
-> 📫 To email me, click the following email <sergiocanram@gmail.com> 
+> 📫 To contact me, click the following email <sergiocanram@gmail.com> 
 
 
