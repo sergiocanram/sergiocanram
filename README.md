@@ -11,7 +11,6 @@
 
 
 
-
 - [x] Great worker and team player
 - [x] Always a helping hand
 - [x] Detail-oriented and highly organized
@@ -29,6 +28,8 @@
 
 > 🐦 Follow me on [Twitter or X or whatever](https://twitter.com/SergioCanRam)
 > 
-> 📫 To contact me, click the following email <sergiocanram@gmail.com> 
+> 📫 To contact me, click the following email <sergiocanram@gmail.com>
+>
+> 😃 I enjoy solving hard problems
 
 
