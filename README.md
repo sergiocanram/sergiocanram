@@ -4,8 +4,7 @@
 
  ### SKILLS
  <table>
-  <tr>
-   
+  <tr>   
     <td>
     
 | Language | Skill Level     |
