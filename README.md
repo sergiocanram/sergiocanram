@@ -13,18 +13,10 @@
 | JS       | ⭐⭐⭐⭐      |
     </td>   
    <td>
-| Language | Skill Level     |
-| ----     | :----           |
-| HTML     | ⭐⭐⭐⭐⭐    |
-| CSS      | ⭐⭐⭐⭐⭐⭐ |
-| JS       | ⭐⭐⭐⭐      |
+Prueba 2
     </td>   
    <td>
-| Language | Skill Level     |
-| ----     | :----           |
-| HTML     | ⭐⭐⭐⭐⭐    |
-| CSS      | ⭐⭐⭐⭐⭐⭐ |
-| JS       | ⭐⭐⭐⭐      |
+Prueba 3
     </td>   
    </tr>
 </table>
