@@ -6,7 +6,8 @@
  <table>
   <tr>   
     <td>    
-HTML
+![skills](https://github.com/sergiocanram/sergiocanram/assets/43572682/eada4702-0b30-444e-b8a5-aa2d5b09d96d)
+
    <td>
 CSS
     </td>   
