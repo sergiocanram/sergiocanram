@@ -3,12 +3,31 @@
  #### Mathematician and Web Developer 
 
  ### SKILLS
+ <table>
+  <tr>
+   <td>
 | Language | Skill Level     |
 | ----     | :----           |
 | HTML     | ⭐⭐⭐⭐⭐    |
 | CSS      | ⭐⭐⭐⭐⭐⭐ |
 | JS       | ⭐⭐⭐⭐      |
-
+    </td>   
+   <td>
+| Language | Skill Level     |
+| ----     | :----           |
+| HTML     | ⭐⭐⭐⭐⭐    |
+| CSS      | ⭐⭐⭐⭐⭐⭐ |
+| JS       | ⭐⭐⭐⭐      |
+    </td>   
+   <td>
+| Language | Skill Level     |
+| ----     | :----           |
+| HTML     | ⭐⭐⭐⭐⭐    |
+| CSS      | ⭐⭐⭐⭐⭐⭐ |
+| JS       | ⭐⭐⭐⭐      |
+    </td>   
+   </tr>
+</table>
 
 
 - [x] Great worker and team player
