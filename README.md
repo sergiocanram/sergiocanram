@@ -6,7 +6,7 @@
  <table>
   <tr>   
     <td>    
-![Programming Skills](skills.jpg)
+![Programming Skills](https://github.com/sergiocanram/sergiocanram/skills.jpg)
    <td>
 Prueba 2
     </td>   
