@@ -6,7 +6,7 @@
  <table>
   <tr>   
     <td>    
-Imagen 1
+![Programming Skills](skills.jpg)
    <td>
 Prueba 2
     </td>   
