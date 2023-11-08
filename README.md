@@ -5,16 +5,12 @@
  ### SKILLS
  <table>
   <tr>   
-    <td>
-    
+    <td>    
 | Language | Skill Level     |
 | ----     | :----           |
 | HTML     | ⭐⭐⭐⭐⭐    |
 | CSS      | ⭐⭐⭐⭐⭐⭐ |
 | JS       | ⭐⭐⭐⭐      |
-    
-    
-       
    <td>
 Prueba 2
     </td>   
