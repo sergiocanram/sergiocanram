@@ -6,11 +6,7 @@
  <table>
   <tr>   
     <td>    
-| Language | Skill Level     |
-| ----     | :----           |
-| HTML     | ⭐⭐⭐⭐⭐    |
-| CSS      | ⭐⭐⭐⭐⭐⭐ |
-| JS       | ⭐⭐⭐⭐      |
+Imagen 1
    <td>
 Prueba 2
     </td>   
