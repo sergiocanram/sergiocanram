@@ -6,12 +6,23 @@
  <table>
   <tr>   
     <td>    
-Prueba 1
+HTML
    <td>
-Prueba 2
+CSS
     </td>   
    <td>
-Prueba 3
+JavaScript
+    </td>   
+   </tr>
+
+    <tr>   
+    <td>    
+Python
+   <td>
+C++
+    </td>   
+   <td>
+C#
     </td>   
    </tr>
 </table>
