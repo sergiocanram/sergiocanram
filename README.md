@@ -6,7 +6,7 @@
  <table>
   <tr>   
     <td>    
-![](https://cdn.iconscout.com/icon/premium/png-512-thumb/programming-skills-4636895-3840404.png?f=webp&w=256)
+Prueba 1
    <td>
 Prueba 2
     </td>   
