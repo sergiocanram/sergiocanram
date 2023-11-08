@@ -13,9 +13,6 @@ CSS
    <td>
 JavaScript
     </td>   
-   </tr>
-
-    <tr>   
     <td>    
 Python
    <td>
