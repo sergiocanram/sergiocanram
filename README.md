@@ -23,6 +23,27 @@ C#
     </td>   
    </tr>
 </table>
+<br><br>
+ <table>
+  <tr>   
+    <td>    
+HTML
+   <td>
+CSS
+    </td>   
+   <td>
+JavaScript
+    </td>   
+    <td>    
+Python
+   <td>
+C++
+    </td>   
+   <td>
+C#
+    </td>   
+   </tr>
+</table>
 
 
 - [x] Great worker and team player
