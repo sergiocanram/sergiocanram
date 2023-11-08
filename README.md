@@ -4,30 +4,17 @@
 
  ### <u> SKILLS </u>
 
- ![probando](https://github.com/sergiocanram/sergiocanram/assets/43572682/eada4702-0b30-444e-b8a5-aa2d5b09d96d)
-
- 
- <table>
-  <tr>   
-    <td>    
-
-
-   <td>
-CSS
-    </td>   
-   <td>
-JavaScript
-    </td>   
-    <td>    
-Python
-   <td>
-C++
-    </td>   
-   <td>
-C#
-    </td>   
-   </tr>
+<table>
+  <tr>
+    <td><img src="https://github.com/sergiocanram/sergiocanram/assets/43572682/eada4702-0b30-444e-b8a5-aa2d5b09d96d" alt="probando"></td>
+    <td>CSS</td>
+    <td>JavaScript</td>
+    <td>Python</td>
+    <td>C++</td>
+    <td>C#</td>
+  </tr>
 </table>
+
  <table>
   <tr>   
     <td>    
