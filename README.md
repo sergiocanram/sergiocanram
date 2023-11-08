@@ -2,7 +2,7 @@
 
  #### Mathematician and Web Developer 
 
- ### SKILLS
+ ### <u> SKILLS </u>
  <table>
   <tr>   
     <td>    
