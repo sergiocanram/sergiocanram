@@ -6,7 +6,7 @@
  <table>
   <tr>   
     <td>    
-![](https://github.com/sergiocanram/sergiocanram/blob/main/skills.jpg)
+![](https://github.com/sergiocanram/sergiocanram/skills.jpg)
    <td>
 Prueba 2
     </td>   
