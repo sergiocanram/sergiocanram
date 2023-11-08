@@ -6,11 +6,15 @@
  <table>
   <tr>
    <td>
+
+    
 | Language | Skill Level     |
 | ----     | :----           |
 | HTML     | ⭐⭐⭐⭐⭐    |
 | CSS      | ⭐⭐⭐⭐⭐⭐ |
 | JS       | ⭐⭐⭐⭐      |
+    
+    
     </td>   
    <td>
 Prueba 2
