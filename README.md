@@ -7,8 +7,8 @@
 <table>
   <tr>
     <td><img src="skills1.jpg" alt="probando"></td>
-    <td>CSS</td>
-    <td>JavaScript</td>
+    <td><img src="skills2.jpg" alt="probando"></td>
+    <td><img src="skills3.jpg" alt="probando"></td>
     <td>Python</td>
     <td>C++</td>
     <td>C#</td>
