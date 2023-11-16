@@ -13,23 +13,24 @@
 </table>
 
 <center>
+ <u> Soft skills </u>
  <table>
   <tr>   
     <td>    
 Web Design
    <td>
-React
+Great taste
     </td>   
    <td>
-jQuery
+Extremely tidy
     </td>   
     <td>    
-NodeJS
+
    <td>
-NextJS
+
     </td>   
    <td>
-Angular
+
     </td>   
    </tr>
 </table>
