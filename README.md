@@ -26,9 +26,9 @@ Extremely tidy
     <td>    
 Hard worker
    <td>
-Always learning!
+There's always room to improve
    <td>
- 
+Always learning! 
    </tr>
 </table>
 
