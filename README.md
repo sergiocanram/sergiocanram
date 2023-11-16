@@ -26,7 +26,7 @@ Extremely tidy
     <td>    
 Hard worker
    <td>
-There's always room to improve
+I can find room to improve 
    <td>
 Always learning! 
    </tr>
