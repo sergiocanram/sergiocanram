@@ -2,7 +2,7 @@
 
  #### Mathematician and Web Developer 
 
- ### <u> SKILLS </u>
+ ### <u> Technical Skills </u>
 
 <table>
   <tr>
@@ -13,25 +13,21 @@
 </table>
 
 <center>
- <u> Soft skills </u>
+ ### <u> Soft skills </u>
  <table>
   <tr>   
     <td>    
 Web Design
    <td>
 Great taste
-    </td>   
    <td>
 Extremely tidy
-    </td>   
     <td>    
-
+Hard worker
    <td>
-
-    </td>   
+Always learning!
    <td>
-
-    </td>   
+ 
    </tr>
 </table>
 
