@@ -13,7 +13,8 @@
 </table>
 
 <center>
- ### <u> Soft skills </u>
+ 
+ ### <u> Soft Skills </u>
  <table>
   <tr>   
     <td>    
