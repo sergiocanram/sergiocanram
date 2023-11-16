@@ -48,7 +48,7 @@ Continous learning!
  ### I'm here to contribute to your project!
 
 
-> 🐦 Follow me on [Twitter or X or whatever](https://twitter.com/SergioCanRam)
+> 🐦 Follow me on [Twitter](https://twitter.com/SergioCanRam)
 > 
 > 📫 To contact me, click the following email <sergiocanram@gmail.com>
 >
