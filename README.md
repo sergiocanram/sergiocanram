@@ -38,6 +38,12 @@ Continous learning!
 
  ### <u> Projects in GitHub </u>
 
+ |                             |                             |                             |
+|-----------------------------|-----------------------------|-----------------------------|
+| <img width="200" src="00-SimpleWatch.JPG">| <img width="200" src="01-SimpleTimer.JPG">| <img width="200" src="02-SimpleCalculator.JPG">|
+| <img width="200" src="03-SimpleTicTacToe.JPG">| <img width="200" src="04-Snakey.jpg">| <img width="200" src="url6">|
+
+
  https://sergiocanram.github.io/timeplease/
  https://sergiocanram.github.io/simpleTimer/
  https://sergiocanram.github.io/calculadora-sencilla/
