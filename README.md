@@ -40,7 +40,7 @@ Continous learning!
 
 | <img width="200" src="02-SimpleCalculator.JPG"> |   <img width="200" src="03-SimpleTicTacToe.JPG">   |  <img width="200" src="04-Snakey.jpg">| 
 |--------------|--------------|--------------|
-| https://sergiocanram.github.io/calculadora-sencilla/|  https://sergiocanram.github.io/tictactoe3enraya/| |  https://sergiocanram.github.io/snakey/|
+| https://sergiocanram.github.io/calculadora-sencilla/|  https://sergiocanram.github.io/tictactoe3enraya/|  https://sergiocanram.github.io/snakey/|
 
 |  <img width="200" src="00-SimpleWatch.JPG"> |   <img width="200" src="01-SimpleTimer.JPG">   |
 |--------------|--------------|
