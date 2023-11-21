@@ -33,8 +33,8 @@ Continous learning!
 </table>
 
 
-- [x] Great worker and team player      - [x] Detail-oriented and highly organized
-- [x] Always a helping hand             - [x] Proactive problem solver and critical thinker
+- [x] Great worker and team player, detail-oriented and highly organized.
+- [x] Always a helping hand, proactive problem solver and critical thinker.
 
 
 
