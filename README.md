@@ -42,27 +42,20 @@ Continous learning!
 |  <img width="200" src="00-SimpleWatch.JPG"> |   <img width="200" src="01-SimpleTimer.JPG">   |
 |--------------|--------------|
 | https://sergiocanram.github.io/timeplease/| https://sergiocanram.github.io/simpleTimer/|
-| ![Descripción 2](url_imagen_2) | [Enlace 2](url_enlace_2) |
 
+| <img width="200" src="02-SimpleCalculator.JPG"> |   <img width="200" src="03-SimpleTicTacToe.JPG">   |
+|--------------|--------------|
+| https://sergiocanram.github.io/calculadora-sencilla/|  https://sergiocanram.github.io/tictactoe3enraya/|
+
+
+|  <img width="200" src="04-Snakey.jpg">|  WIP |
+|--------------|--------------|
+|  https://sergiocanram.github.io/snakey/| WIP |
 
  
 
- https://sergiocanram.github.io/calculadora-sencilla/
- https://sergiocanram.github.io/tictactoe3enraya/
- https://sergiocanram.github.io/snakey/
 
- 
-| | || <img width="200" src="02-SimpleCalculator.JPG">
-| <img width="200" src="03-SimpleTicTacToe.JPG">| <img width="200" src="04-Snakey.jpg">| <img width="200" src="url6">|
-|-----------------------------|-----------------------------|-----------------------------|
- |                             |                             |                             |
-
-
-
-
-
----
-  
+---  
  ### I'm here to contribute to your project!
 
 
