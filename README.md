@@ -36,7 +36,13 @@ Continous learning!
 - [x] Great worker and team player, detail-oriented and highly organized.
 - [x] Always a helping hand, proactive problem solver and critical thinker.
 
+ ### <u> Projects in GitHub </u>
 
+ https://sergiocanram.github.io/timeplease/
+ https://sergiocanram.github.io/simpleTimer/
+ https://sergiocanram.github.io/calculadora-sencilla/
+ https://sergiocanram.github.io/tictactoe3enraya/
+ https://sergiocanram.github.io/snakey/
 
 
 
