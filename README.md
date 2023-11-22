@@ -42,7 +42,7 @@ Continous learning!
 |--------------|--------------|--------------|
 | https://sergiocanram.github.io/simplecalc/| https://sergiocanram.github.io/Tetris/ | https://sergiocanram.github.io/snakey/ |
 
-|  <img width="500" src="00-SimpleWatch.JPG"> |   <img width="500" src="01-SimpleTimer.JPG">   |<img width="500" src="03-SimpleTicTacToe.JPG"> |
+|  <img src="00-SimpleWatch.JPG"> |   <img src="01-SimpleTimer.JPG">   |<img src="03-SimpleTicTacToe.JPG"> |
 |--------------|--------------|---------------|
 | https://sergiocanram.github.io/timeplease/| https://sergiocanram.github.io/simpleTimer/| https://sergiocanram.github.io/tictactoe3enraya/ |
 
