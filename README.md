@@ -38,13 +38,13 @@ Continous learning!
 
  ### <u> Projects in GitHub </u>
 
-| <img width="700" src="02-SimpleCalculator.JPG"> |   <img width="700" src="03-SimpleTicTacToe.JPG">   |  <img width="700" src="04-Snakey.jpg">| 
+| <img width="700" src="02-SimpleCalculator.JPG"> |   <img width="700" src="05-Tetris.JPG">   |  <img width="700" src="04-Snakey.jpg">| 
 |--------------|--------------|--------------|
-| https://sergiocanram.github.io/simplecalc/|  https://sergiocanram.github.io/tictactoe3enraya/|  https://sergiocanram.github.io/snakey/|
+| https://sergiocanram.github.io/simplecalc/| https://sergiocanram.github.io/Tetris/ | https://sergiocanram.github.io/snakey/ |
 
-|  <img width="500" src="00-SimpleWatch.JPG"> |   <img width="500" src="01-SimpleTimer.JPG">   |
+|  <img width="500" src="00-SimpleWatch.JPG"> |   <img width="500" src="01-SimpleTimer.JPG">   |<img width="700" src="03-SimpleTicTacToe.JPG"> |
 |--------------|--------------|
-| https://sergiocanram.github.io/timeplease/| https://sergiocanram.github.io/simpleTimer/|
+| https://sergiocanram.github.io/timeplease/| https://sergiocanram.github.io/simpleTimer/| https://sergiocanram.github.io/tictactoe3enraya/ |
 
 
 
