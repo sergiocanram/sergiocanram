@@ -38,7 +38,7 @@ Continous learning!
 
  ### <u> Projects in GitHub </u>
 
-| <img width="700" src="02-SimpleCalculator.JPG"> |   <img width="700" src="05-Tetris.JPG">   |  <img width="700" src="04-Snakey.jpg">| 
+| <img width="700" src="02-SimpleCalculator.JPG"> |   <img width="700" src="05-Tetris.jpg">   |  <img width="700" src="04-Snakey.jpg">| 
 |--------------|--------------|--------------|
 | https://sergiocanram.github.io/simplecalc/| https://sergiocanram.github.io/Tetris/ | https://sergiocanram.github.io/snakey/ |
 
