@@ -36,8 +36,8 @@ Continous learning!
 - [x] Great worker and team player, detail-oriented and highly organized.
 - [x] Always a helping hand, proactive problem solver and critical thinker.
 
- ### <u> Projects in GitHub </u>
- ## JavaScript
+ ## <u> Projects in GitHub </u>
+ ### JavaScript
 
 | <img width="500" src="02-SimpleCalculator.JPG"> |   <img width="500" src="05-Tetris.jpg">   |  <img width="500" src="04-Snakey.jpg">| 
 |--------------|--------------|--------------|
