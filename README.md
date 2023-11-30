@@ -40,8 +40,8 @@ Continous learning!
  ### React
 
  | Veterinarian managing example |   Personal Finance organization  | 
-|--------------|--------------|--------------|
-| <a href="veterinario-virtual.netlify.app">Veterinarian web page</a>| planificacion-financiera.netlify.app| 
+
+WIP
  
  ### JavaScript
 
