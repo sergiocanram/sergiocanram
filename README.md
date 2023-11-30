@@ -41,7 +41,7 @@ Continous learning!
 
  | Veterinarian managing example |   Personal Finance organization  | 
 |--------------|--------------|--------------|
-| veterinario-virtual.netlify.app| planificacion-financiera.netlify.app| 
+| <a href="veterinario-virtual.netlify.app">Veterinarian web page</a>| planificacion-financiera.netlify.app| 
  
  ### JavaScript
 
