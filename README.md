@@ -28,7 +28,7 @@ Hard worker
    <td>
 There's always room to improve 
    <td>
-Continous learning! 
+Continuous learning! 
    </tr>
 </table>
 
