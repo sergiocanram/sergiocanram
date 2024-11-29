@@ -55,7 +55,7 @@ Continuous learning!
 <br>
 
  
- ## JavaScript
+ ## JavaScript section - Have fun!
 
 | <img width="500" src="02-SimpleCalculator.JPG"> |   <img width="500" src="05-Tetris.jpg">   |  <img width="500" src="04-Snakey.jpg">| 
 |--------------|--------------|--------------|
