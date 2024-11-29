@@ -40,11 +40,11 @@ Continuous learning!
 
  ### ¿Quieres apuntarte a mi lista de distribución?
 
- ## Pincha aquí ==> https://sergiowebdev.com/dejatuemail
+ ## Pincha aquí ==> [Deja tu email] https://sergiowebdev.com/dejatuemail
  
  ### Enlace a mi blog creado con PHP
 
-https://blog.sergiowebdev.com
+[Blog PHP]https://blog.sergiowebdev.com
 
  
  ### JavaScript
