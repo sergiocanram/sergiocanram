@@ -43,7 +43,7 @@ Continuous learning!
 
  ### Wanna join my newsletter?
 
- ## Click [AQUÍ!!](https://sergiowebdev.com/dejatuemail)
+ ## Click [HERE!!](https://sergiowebdev.com/dejatuemail)
 
 <br>
 <br>
