@@ -40,9 +40,9 @@ Continuous learning!
 
  ### Wanna join my newsletter?
 
- ## Click [AQUÍ!!](https://sergiowebdev.com/dejatuemail))
+ ## Click [AQUÍ!!](https://sergiowebdev.com/dejatuemail)
  
- <a href="" target="_blank"> here!!</a>
+
  
  ### Link to my PHP and Symfony blog 
 
