@@ -47,15 +47,13 @@ Continuous learning!
 
 <br>
 <br>
- ---
-
- 
+  
  ### Link to my PHP and Symfony blog 
 
 [Blog PHP](https://blog.sergiowebdev.com)
 <br>
 <br>
----
+
  
  ### JavaScript
 
