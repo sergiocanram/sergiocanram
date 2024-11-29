@@ -36,12 +36,17 @@ Continuous learning!
 - [x] Great worker and team player, detail-oriented and highly organized.
 - [x] Always a helping hand, proactive problem solver and critical thinker.
 
+---
+---
+
  ## <u> Projects in GitHub </u>
 
  ### Wanna join my newsletter?
 
  ## Click [AQUÍ!!](https://sergiowebdev.com/dejatuemail)
- 
+
+ ---
+ ---
 
  
  ### Link to my PHP and Symfony blog 
