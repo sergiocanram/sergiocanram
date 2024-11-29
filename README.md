@@ -38,11 +38,11 @@ Continuous learning!
 
  ## <u> Projects in GitHub </u>
 
- ### ¿Quieres apuntarte a mi lista de distribución?
+ ### Wanna join my newsletter?
 
- ## Pincha aquí  =>  [Deja tu email](https://sergiowebdev.com/dejatuemail)
+ ## Click  =>  [here!l](https://sergiowebdev.com/dejatuemail)
  
- ### Enlace a mi blog creado con PHP
+ ### Link to my PHP and Symfony blog 
 
 [Blog PHP](https://blog.sergiowebdev.com)
 
