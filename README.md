@@ -37,6 +37,10 @@ Continuous learning!
 - [x] Always a helping hand, proactive problem solver and critical thinker.
 
  ## <u> Projects in GitHub </u>
+
+ ### ¿Quieres apuntarte a mi lista de distribución?
+
+ ## Pincha aquí ==> https://sergiowebdev.com/dejatuemail
  
  ### Enlace a mi blog creado con PHP
 
