@@ -37,11 +37,11 @@ Continuous learning!
 - [x] Always a helping hand, proactive problem solver and critical thinker.
 
  ## <u> Projects in GitHub </u>
- ### React
+ 
+ ### Enlace a mi blog creado con PHP
 
- | Veterinarian managing example |   Personal Finance organization  | 
+https://blog.sergiowebdev.com
 
-WIP
  
  ### JavaScript
 
