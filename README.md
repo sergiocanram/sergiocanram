@@ -36,8 +36,8 @@ Continuous learning!
 - [x] Great worker and team player, detail-oriented and highly organized.
 - [x] Always a helping hand, proactive problem solver and critical thinker.
 
----
----
+<br>
+<br>
 
  ## <u> Projects in GitHub </u>
 
